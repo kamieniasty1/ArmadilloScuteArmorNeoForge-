@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armadillo_scute_armor:item/armadillo_player_leggings",
+    "layer1": "minecraft:trims/items/leggings_trim_iron"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "armadillo_scute_armor:item/armadillo_player_chestplate",
+    "layer1": "minecraft:trims/items/chestplate_trim_gold"
+  }
+}

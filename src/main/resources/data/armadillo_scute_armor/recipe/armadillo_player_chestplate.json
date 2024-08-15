@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "minecraft:armadillo_scute"
+    }
+  },
+  "pattern": [
+    "S S",
+    "SSS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "armadillo_scute_armor:armadillo_player_chestplate"
+  }
+}
